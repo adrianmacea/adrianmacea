@@ -1,7 +1,7 @@
 👋 Hi, I’m @adrianmacea
 - I am an enthusiastic self-taught Web Developer with a vast experience in graphic design.
 - I'm interested in expanding my Web Developer skills.
-- I love photography, boardgame design and learning new things.
+- I love boardgames, music and learning new things.
 
 <!---
 adrianmacea/adrianmacea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
